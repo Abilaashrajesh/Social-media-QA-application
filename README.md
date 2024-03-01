@@ -1,1 +1,1 @@
-# MERN-QA-webapp-Backend
+# MERN-social-media-app
