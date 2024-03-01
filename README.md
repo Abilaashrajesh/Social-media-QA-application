@@ -1,2 +1,1 @@
-# MERN-social-media-app
-# MERN-social-media-app
+# Social-media-mern-Q-A
